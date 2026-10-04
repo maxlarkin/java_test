@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class Main{
     public static void main(String[] args) {
 //        selectionSort();
+        System.out.println("hello, World");
     }
 
     public static void selectionSort(int[] a) {
